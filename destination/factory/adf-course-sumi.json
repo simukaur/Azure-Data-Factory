@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-sumi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1deb0110-5555-4a38-914c-aa01b4f4acf0",
+		"tenantId": "04d22b5f-6e31-4b4e-b524-11a81f279d21"
+	}
+}
